@@ -128,6 +128,17 @@ main > section{
     margin-top: 5px;
     margin-bottom: 10px;
 }
+h1{
+    -webkit-text-fill-color: #f10869;
+}
+h2{
+    -webkit-text-fill-color: rgb(218, 10, 218);
+}
+h5{
+    -webkit-text-fill-color: aqua;
+}
+
+
 .fact-name{
     font-size: 1,25rem;
     font-weight: 600;
@@ -145,6 +156,9 @@ main > section{
     font-size: 2.8rem;
     font-weight: 700;
     
+}
+h3,p{
+    -webkit-text-fill-color: rgb(21, 34, 214);
 }
 .sponsor-info{
     max-width: 540px;
